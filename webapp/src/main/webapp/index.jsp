@@ -6,3 +6,5 @@
 <h2> Poll SCM is configured in Jenkins to deploy the latest codes in the target VM environment. </h2>
 
 <h3> Check this out!!! </h3>
+
+<h2> Ibrahima is the man!!! Deploying on a VM... </h2>
